@@ -1,0 +1,31 @@
+name: Myblogs
+tags: ["React.js", "Javascript"]
+starter-files: https://github.com/garimajain12/Myblogs
+type: Frontend
+level: easy
+cover-image: https://my-blogs-12.netlify.app/
+short-description: Make a Blogging application using React.js and JavaScript.
+long-description: |
+  Your challenge is to build out a Blog App and get it to look as close to the design as possible.
+  
+  This project focuses on your React.js,Javascript but you can use any tools you like to help you complete the project. So if you've got something you'd like to practice, feel free to give it a go.
+
+  This project should have the following functionalities
+  
+  - A Blogging application build with React.js with redux for state management.
+
+  - A user should be able to view his Blogs
+  
+  - A user can create, edit and also delete the blogs.
+
+  - A user can Like blogs.
+
+  You can go through the `Readme.md` to see more details regarding the project and the assets folder to see the preview images of the project for desktop and mobile viewports. 
+
+    
+# https://codedamn.com/projects specific section
+codedamn:
+    helper-learning-path: frontend
+    show-community-banner: true
+    playground-layout: terminal-editor-browser
+    playground-image: React.js
